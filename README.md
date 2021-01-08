@@ -1,13 +1,10 @@
 ## Bootstrap
 
-You can use the [editor on GitHub](https://github.com/arlcrowcdn/bootstrap/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Просто. Обычный. CDN
 
-Whenever you caommit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### v5.0.0-beta
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+Просто вставь между тегами ```<head> </head>``` этот код:
 ```html
 <link rel="stylesheet" href="https://raw.githubusercontent.com/arlcrowcdn/bootstrap/main/v5.0.0-beta1/css/bootstrap.min.css">
 ```
