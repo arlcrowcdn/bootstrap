@@ -1,25 +1,16 @@
-## Bootstrap
+## Font Awesome
 
-Просто. Обычный. CDN. 
+Слив 5.15.1 Pro
 
-### v5.0.0-beta
 
-Просто вставь между тегами ```<head></head>``` этот код:
-```html
-<link rel="stylesheet" href="https://raw.githubusercontent.com/arlcrowcdn/bootstrap/main/v5.0.0-beta1/css/bootstrap.min.css">
+
+CDN:
 ```
-И еще в конце твоего кода в тегах ```<body></body>``` этот код:
-```html
-<script src="https://raw.githubusercontent.com/arlcrowcdn/bootstrap/main/v5.0.0-beta1/js/bootstrap.bundle.min.js"></script>
+https://pro.fontawesome.com/releases/v.15.1/css/all.css
+https://pro.fontawesome.com/releases/v.15.1/js/all.js
 ```
+Скачать:
 
-### v4.5.3
 
-Просто вставь между тегами ```<head></head>``` этот код:
-```html
-<link rel="stylesheet" href="https://raw.githubusercontent.com/arlcrowcdn/bootstrap/main/v4.5.3/css/bootstrap.min.css">
-```
-И еще в конце твоего кода в тегах ```<body></body>``` этот код:
-```html
-<script src="https://raw.githubusercontent.com/arlcrowcdn/bootstrap/main/v4.5.3/js/bootstrap.bundle.min.js"></script>
-```
+
+<a href="https://github.com/arlcrowcdn/fontawesome/raw/main/fontawesome-pro-5.15.1-web.zip" class="btn btn-default navbar-btn" role="button">Скачать</a>
